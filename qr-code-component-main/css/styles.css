@@ -1,0 +1,36 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+
+p {
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+}
+
+.header {
+  font-weight: 700;
+  font-family: 'Outfit', sans-serif;
+  font-size: 22px;
+}
+
+
+.shape {
+  width: 325px;
+  height: 512.5px;
+  background: white;
+  border-radius: 20px;
+  margin: 150px auto;
+}
+
+.qr {
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+  margin-top: 12.5px;
+}
+
+.text {
+  width: 265px;
+  margin: 0 auto;
+}
